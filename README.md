@@ -20,14 +20,14 @@ Hello world!
 
 ## About me
 
-I'm currently working as a teacher in a French bootcamp, La Capsule. I'm training students to become Fullstack JS Developers : <br>
+I'm currently studying to become a Fullstack JS Developer in a French bootcamp, La Capsule : <br>
 🚀  Next.js / Redux / MongoDB / Express 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
-- 🌱 &nbsp; I'm on track with learning more about Desktop applications with C# and its framework WPF
-- 🥅 &nbsp; Goals : overcome my imposter syndrome
-- 💬 &nbsp; Ask me about Astronomy, fishing and bass guitar
-- ⚡ &nbsp; Fun fact: I never eat couscous without gruyere
+- 🌱 &nbsp; I'm on track with becoming a better developper and discovering more about coding languages.
+- 🥅 &nbsp; Goals : Becoming a better everything each day
+- 💬 &nbsp; Ask me about synthetizers, Japanese jazz-fusion and Cinema
+- ⚡ &nbsp; Fun fact: I make an amazing chocolate cake 
 
 <br>
 
@@ -42,9 +42,7 @@ I'm currently working as a teacher in a French bootcamp, La Capsule. I'm trainin
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
+
 </p>
 
 <br>
