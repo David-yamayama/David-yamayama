@@ -10,9 +10,9 @@ Hello world!
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-meunier-69928a192/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/social_logo/linkedin_purple.png"/></a>
+  <a href="https://www.linkedin.com/in/david-kufeld-7631132a6/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/social_logo/linkedin_purple.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:david_meunier@hotmail.fr"><img width="32px" alt="Email" title="Email" src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/social_logo/email_purple.png"></a>
+  <a href="mailto:david.s.kufeld@gmail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/social_logo/email_purple.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
