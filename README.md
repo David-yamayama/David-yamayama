@@ -20,7 +20,7 @@ Hello world!
 
 ## About me
 
-I'm currently studying to become a Fullstack JS Developer in a French bootcamp, La Capsule : <br>
+I'm currently studying to become a Software Engineer in a French school, EPITECH ! : <br>
 🚀 React/ React Native/ Next.js / Redux / MongoDB / Express 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
@@ -35,10 +35,10 @@ I'm currently studying to become a Fullstack JS Developer in a French bootcamp, 
 
 <p align="center">
   <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/visualstudio_logo.svg" alt="VScode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/bash_logo.svg" alt="Bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/html_logo.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/css3_logo.svg" alt="CSS" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Greenystuff/Greenystuff/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
@@ -52,7 +52,7 @@ I'm currently studying to become a Fullstack JS Developer in a French bootcamp, 
 <div align="center">
 <!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
 <a href="https://github.com/David-yamayama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greenystuff&show_icons=true&line_height=27&theme=vision-friendly-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-yamayamaf&show_icons=true&line_height=27&theme=vision-friendly-dark"/>
 </a>
 <a href="https://github.com/David-yamayama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-yamayama&langs_count=3&theme=vision-friendly-dark" />
