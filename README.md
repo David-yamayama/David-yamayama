@@ -21,7 +21,7 @@ Hello world!
 ## About me
 
 I'm currently studying to become a Fullstack JS Developer in a French bootcamp, La Capsule : <br>
-🚀  Next.js / Redux / MongoDB / Express 🚀
+🚀 React/ React Native/ Next.js / Redux / MongoDB / Express 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
 - 🌱 &nbsp; I'm on track with becoming a better developper and discovering more about coding languages.
@@ -51,11 +51,11 @@ I'm currently studying to become a Fullstack JS Developer in a French bootcamp, 
 
 <div align="center">
 <!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
-<a href="https://github.com/Greenystuff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greenystuff&show_icons=true&line_height=27&theme=radical"/>
+<a href="https://github.com/David-yamayama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greenystuff&show_icons=true&line_height=27&theme=vision-friendly-dark"/>
 </a>
-<a href="https://github.com/Greenystuff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenystuff&langs_count=3&theme=radical" />
+<a href="https://github.com/David-yamayama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-yamayama&langs_count=3&theme=vision-friendly-dark" />
 </a>
 </div>
 
