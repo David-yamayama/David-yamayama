@@ -20,7 +20,7 @@ Hello world!
 
 ## About me
 
-Freshly out of a Web Development Fullstack Js bootcamp, I'm currently studying to become a Software Engineer in a French school, EPITECH ! : <br>
+Freshly out of a Web Development Fullstack JS bootcamp from La Capsule, I'm currently studying to become a Software Engineer in a French school, EPITECH ! : <br>
 🚀 React/ React Native/ Next.js / Redux / MongoDB / Express 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
