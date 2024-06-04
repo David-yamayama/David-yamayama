@@ -20,7 +20,7 @@ Hello world!
 
 ## About me
 
-I'm currently studying to become a Software Engineer in a French school, EPITECH ! : <br>
+Freshly out of a Web Development Fullstack Js bootcamp, I'm currently studying to become a Software Engineer in a French school, EPITECH ! : <br>
 🚀 React/ React Native/ Next.js / Redux / MongoDB / Express 🚀
 
 - 🔭 &nbsp; **I am passionate and happy as a Web Developer**
@@ -52,7 +52,7 @@ I'm currently studying to become a Software Engineer in a French school, EPITECH
 <div align="center">
 <!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
 <a href="https://github.com/David-yamayama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-yamayamaf&show_icons=true&line_height=27&theme=vision-friendly-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-yamayama&show_icons=true&line_height=27&theme=vision-friendly-dark"/>
 </a>
 <a href="https://github.com/David-yamayama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-yamayama&langs_count=3&theme=vision-friendly-dark" />
