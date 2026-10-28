@@ -6,7 +6,7 @@
 
 Front-end developer. I build websites and serious games with Nuxt, Vue and GSAP — where every movement has a purpose, and a response.
 
-Based in Bordeaux · open to Paris, Montréal and remote · [davidkufeld.com](https://davidkufeld.com)
+Based in Bordeaux · open to Paris, Amsterdam, Copenhagen, London, Montréal and remote · [davidkufeld.com](https://davidkufeld.com)
 
 ### Selected work
 
